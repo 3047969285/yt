@@ -1,0 +1,8 @@
+flask==2.3.3
+flask-cors==4.0.0
+langchain==0.1.0
+langchain-openai==0.0.9
+langchain-community==0.0.19
+faiss-cpu==1.7.4
+python-dotenv==1.0.0
+requests==2.31.0
